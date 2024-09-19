@@ -1,2 +1,2 @@
 # Bike-Buyers-Analysis-Dashboard
-An Excel dashboard based on the Bike Buyers dataset from Kaggle, featuring data visualization and analysis. It offers insights into demographics and purchasing patterns of bike buyers, with an interactive view of key metrics like income, gender, marital status, and region to highlight trends in bike purchases.
+A detailed Excel dashboard created using the Bike Buyers dataset from Kaggle. This project includes data visualization, analysis, and insights into the demographics and purchasing patterns of bike buyers. The dashboard provides an interactive view of key metrics such as income, gender, marital status, and region to help identify trends in bike purchasing behavior
